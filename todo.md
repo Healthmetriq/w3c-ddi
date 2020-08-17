@@ -18,9 +18,9 @@ DONE
 ** take it out of pdf and reword
 ** get it to show up
 * general edits - go through document
-  3.4.1 
+  3.4.1
 *  clean up task force andd decision tree mentions
-** add definitions of decision tree on first use 
+** add definitions of decision tree on first use
 *  clean up methodology, etc.
 ** recapture all process stuff edited out in section 1-4.
 * reorder sections (see structure.md)
@@ -36,7 +36,7 @@ DONE
 *  propose model for coding of entities in xml
 ** say that this is just a proposal
 ** refer to FHIR
-** fix bende/srpiti/mandel link 
+** fix bende/srpiti/mandel link
 ** unknown stuff in color
 ** write up list of changes to present to rich. - and other questions
     (all the tbd stuff)
@@ -57,7 +57,7 @@ DONE
   severity
   mechanism
  recommended action
- contextual information/modifying factors 
+ contextual information/modifying factors
  frequencey of exposure
  frequency of harm
 * review xml examples and fix content
@@ -75,4 +75,3 @@ DONE
 * remove stuff about user-centered. focus on who - serious as binary
 
 * talkt to Rich about talbe 1 - fixing content and urls
-
